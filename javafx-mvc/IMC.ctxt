@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=IMC
+comment0.text=\r\n\ Calcula\ sua\ Velocidade\r\n\ \r\n\ @author\ CodeByGabriel\r\n\ @version\ 0.01\r\n
+comment1.params=
+comment1.target=IMC()
+comment2.params=distancia\ tempo
+comment2.target=IMC(double,\ double)
+comment2.text=\r\n\ Construtor\ para\ objetos\ da\ classe\ CalculadoraIMC\r\n
+comment3.params=
+comment3.target=double\ calcular()
+comment3.text=\r\n\ Calcula\ a\ velocidade\r\n\ \r\n\ @return\ \ o\ valor\ da\ velocidade\ \u00E9\ dado\ por\:\ distancia/tempo;\r\n\ \r\n
+comment4.params=
+comment4.target=double\ interpretar()
+comment4.text=\r\n\ Interpreta\ a\ velocidade\r\n\ \r\n\ @return\ \ \ \ \ interpreta\ a\ velocidade\r\n
+numComments=5
